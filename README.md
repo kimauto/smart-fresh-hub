@@ -118,7 +118,7 @@
 
 ## 🎬 시연 영상
 
-> 📽 영상 링크: (YouTube 또는 GitHub 링크 첨부)
+> 📽 영상 링크:(https://drive.google.com/file/d/1uHWJevBXgMeFv2rRzEwFgHr6qHUjGcgF/view?usp=sharing)
 > 
 
 <br>
